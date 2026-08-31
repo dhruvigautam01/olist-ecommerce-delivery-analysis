@@ -36,6 +36,8 @@ Orders were split into two groups at the median delivery time (10 days): **fast*
 | Slow (>10 days) | 3.94 | 49,565 |
 
 **Result:** t = 55.4, p < 0.001
+### What Drives Slow Delivery? - Geography
+After filtering for states with sufficient order volume , Amazonas(25 Days , n= 145) and ALagoas(24 days , n = 397) show the most consistent delivery delays - both geographically distant from Olist's primary seller hub in Sao Paulo(8.3 days,n =40,501).
 
 ### Finding
 
