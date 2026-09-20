@@ -129,7 +129,8 @@ Combined, these findings suggest two distinct opportunities: (1) revenue is conc
 
 A dashboard was built in Power BI Desktop on top of the cleaned data (exported from the notebook), using a star schema with `delivered_orders` as the fact table and `customers`, `products` as dimension tables joined through `order_items`.
 
-![Dashboard](dashboard.png)
+![Dashboard](<img width="749" height="422" alt="Screenshot 2026-09-20 124142" src="https://github.com/user-attachments/assets/64771901-1d90-4ec8-9e03-6005c2642bfb" />
+)
 
 **KPI Cards:**
 - Average delivery time: 12.09 days
